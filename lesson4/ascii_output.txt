@@ -1,0 +1,7 @@
+Character: A ASCII: 65
+Character: n ASCII: 110
+Character: u ASCII: 117
+Character: s ASCII: 115
+Character: h ASCII: 104
+Character: a ASCII: 97
+Character: a ASCII: 97
